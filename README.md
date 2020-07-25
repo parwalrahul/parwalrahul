@@ -1,8 +1,6 @@
 ### Hello there 👋
 
-I am Rahul Parwal, a Software Engineer by Profession, Software Tester by Trade, Programmer by Practice, and Trainer by Passion. 
-
-A seeker by heart; love for Indian mythology and Cricket and connecting them with real-life situations give an edge both on professional and personal fronts. A firm believer of right education and an ardent advocate of open source mentality. A great company to be with who will ensure that every conversation turns out to be as stimulating as a cup of hot coffee.
+I am a seeker by heart; my love for Indian mythology and Cricket and connecting them with real-life situations give an edge both on professional and personal fronts. A firm believer of right education and an ardent advocate of open source mentality. A great company to be with who will ensure that every conversation turns out to be as stimulating as a cup of hot coffee.
 
 - 🔭 I’m currently working on Industrial Automation, UI, API, and Mobile App Automation Testing projects.
 - 🌱 I’m currently learning Test Craftmanship.
