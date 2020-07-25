@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**parwalrahul/parwalrahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Rahul Parwal, a Software Engineer by Profession, Software Tester by Trade, Programmer by Practice, and Trainer by Passion. 
 
-Here are some ideas to get you started:
+A seeker by heart; love for Indian mythology and Cricket and connecting them with real-life situations give an edge both on professional and personal fronts. A firm believer of right education and an ardent advocate of open source mentality. A great company to be with who will ensure that every conversation turns out to be as stimulating as a cup of hot coffee.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Industrial Automation, UI, API, and Mobile App Automation Testing projects.
+- 🌱 I’m currently learning Test Craftmanship.
+- 👯 I’m looking to collaborate on Testing and Quality solutions
+- 🤔 I’m looking for help with enhancing my Design Skills.
+- 💬 Ask me about Testing, Mythology & Cricket !
+- 📫 How to reach me: via mail at parwalrahul94@gmail.com or on cellphone number at +91-9782484444. 
+- ⚡ Fun fact: I am in top 1.8 % of the world population (by height) !
+
