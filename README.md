@@ -7,6 +7,6 @@ I am a seeker by heart; my love for Indian mythology and Cricket and connecting 
 - 👯 I’m looking to collaborate on Testing and Quality solutions
 - 🤔 I’m looking for help with enhancing my Design Skills.
 - 💬 Ask me about Testing, Mythology & Cricket !
-- 📫 How to reach me: via mail at parwalrahul94@gmail.com or on cellphone number at +91-9782484444. 
+- 📫 You can reach me via mail at parwalrahul94@gmail.com or on my cellphone number at +91-9782484444. 
 - ⚡ Fun fact: I am in top 1.8 % of the world population (by height) !
 
